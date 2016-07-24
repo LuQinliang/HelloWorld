@@ -1,0 +1,13 @@
+using System;
+
+namespace HelloWorld
+{
+    class HelloWorld
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("HelloWorld");
+            Console.ReadKey();
+        }
+    }
+}
